@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">A7_241A010473</string>
+    <string name="title">Lab A7 – Xin quyền truy cập</string>
+    <string name="student">Nguyễn Nguyễn Duy – MSSV 241A010473</string>
+    <string name="desc_anh">Ảnh vừa chụp từ camera</string>
+
+    <string name="btn_chup">Chụp ảnh (cần quyền CAMERA)</string>
+    <string name="btn_thong_bao">Gửi thông báo (cần POST_NOTIFICATIONS)</string>
+    <string name="open_settings">Mở Cài đặt ứng dụng</string>
+    <string name="agree">Đồng ý</string>
+    <string name="cancel">Để sau</string>
+
+    <string name="rationale_title">Vì sao cần quyền này?</string>
+    <string name="rationale_camera">Ứng dụng cần quyền CAMERA để chụp và hiển thị ảnh xem trước. Không có quyền này, nút Chụp ảnh sẽ không hoạt động.</string>
+    <string name="blocked_title">Quyền đang bị chặn</string>
+    <string name="blocked_camera">Bạn đã chọn không cho phép nên hệ thống sẽ không hỏi lại. Hãy mở Cài đặt → Quyền → Camera và bật thủ công.</string>
+
+    <string name="channel_name">Thông báo Lab A7</string>
+    <string name="channel_desc">Kênh minh họa cho bài thực hành A7</string>
+    <string name="noti_title">Xin chào từ Lab A7</string>
+    <string name="noti_text">Bạn vừa gửi thông báo thành công.</string>
+    <string name="noti_denied">Bạn đã từ chối quyền gửi thông báo.</string>
+    <string name="photo_cancelled">Đã hủy chụp ảnh.</string>
+
+    <string name="granted">ĐÃ CẤP</string>
+    <string name="denied">CHƯA CẤP</string>
+    <string name="status_format">Quyền CAMERA: %1$s\nQuyền THÔNG BÁO: %2$s\nQuyền DANH BẠ: %3$s</string>
+    <string name="status_photo">Ảnh xem trước: %1$d x %2$d pixel</string>
+
+    <!-- Bài nâng cao NC1 & NC2 -->
+    <string name="btn_nc1">Xin 2 quyền cùng lúc (Camera + Danh bạ)</string>
+    <string name="btn_nc2">Đọc 5 liên hệ đầu tiên (READ_CONTACTS)</string>
+</resources>
